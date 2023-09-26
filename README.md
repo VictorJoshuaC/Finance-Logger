@@ -1,2 +1,2 @@
 # first-type
-working on my first typescript project 
+working on my first typescript project
