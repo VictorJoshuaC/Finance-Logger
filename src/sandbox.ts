@@ -5,5 +5,5 @@
 }
 console.log('testing');
 
-grate(9,1,'cat',)
+grate(9,1,'gat',)
 
