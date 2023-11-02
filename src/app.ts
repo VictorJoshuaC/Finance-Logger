@@ -20,3 +20,26 @@ form.addEventListener('submit', (e: Event) => {
         amount.value
     );
 });
+
+
+// using class
+class invoice {
+    client: string;
+    details: string;
+    amount: number;
+
+    constructor(c: string, d: string, a: number){
+        this.client = c;
+        this.details = d;
+        this.amount = a;
+    }
+
+    format() {
+        return `${this.client} owes $ ${this.amount} for ${this.details}`;
+    }
+}
+
+const invOne = new invoice('mario', 'work on the arm', 590);
+
+console.log(invOne);
+

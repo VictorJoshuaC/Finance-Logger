@@ -17,8 +17,8 @@ greetAgain(infor);
 //function signatures
 // eg 1
 let gate;
-gate = (name, gatein) => {
-    console.log(`${name} says ${gatein}`);
+gate = (name, gateIn) => {
+    console.log(`${name} says ${gateIn}`);
 };
 // eg 2
 let calc;
