@@ -30,8 +30,8 @@ greetAgain(infor);
 // eg 1
 
 let gate: (a: string, b: string) => void;
-gate = (name: string, gatein: string) => {
-    console.log(`${name} says ${gatein}`);
+gate = (name: string, gateIn: string) => {
+    console.log(`${name} says ${gateIn}`);
 } 
 
 
