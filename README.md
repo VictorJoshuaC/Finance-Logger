@@ -1,4 +1,4 @@
- <h1> # Finance Logger System <h1>
+ <h1> # Finance Logger System </h1>
 <b>This simple Finance Logger system is built using TypeScript and HTML & CSS. It allows users to input financial transactions, such as invoices and payments, and displays them in a user-friendly way.<b>
 
 ## Features ##
@@ -11,9 +11,9 @@ Responsive Design: The user interface is designed to be responsive, ensuring a s
 <p>Follow the steps below to set up and run the Finance Logger system locally: <br>
 
 Clone the Repository:<br>
+```git clone https://github.com/VictorJoshuaC/Finance-Logger.git
+cd Finance-logger```
 
-git clone https://github.com/VictorJoshuaC/Finance-Logger.git
-cd Finance-logger
 Open in Browser:
 Open the index.html file in your preferred web browser.
 
